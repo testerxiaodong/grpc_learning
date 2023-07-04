@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option go_package = "./pb;pb";
+
+package pb;
+
+import "memory_message.proto";
+
+message Storage {
+    enum Drive {
+        UNKNOWN = 0;
+        HDD = 1;
+        SSD = 2;
+    }
+    Drive drive = 1;
+    Memory memory = 2;
+}

@@ -1,0 +1,62 @@
+{
+  "id": "dc4733d2-6a67-40db-bdb4-e9b06171b3f5",
+  "brand": "Lenovo",
+  "name": "Thinkpad P53",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i5-9400F",
+    "number_cores": 4,
+    "number_threads": 6,
+    "min_ghz": 3.4635729473808423,
+    "max_ghz": 3.4669628257500236
+  },
+  "memory": {
+    "value": "7",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "Intel",
+      "name": "Core i9-9980Hk",
+      "min_ghz": 2.1664895322887254,
+      "max_ghz": 2.658494950774561,
+      "memory": {
+        "value": "6",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "drive": "SSD",
+      "memory": {
+        "value": "1004",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "drive": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.028942,
+    "resolution": {
+      "width": 2058,
+      "height": 1158
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "key_board": {
+    "layout": "QWERTZ",
+    "backlit": false
+  },
+  "weight_kg": 1.0810592982816452,
+  "price_usd": 2724.382503165713,
+  "release_year": 2016,
+  "time_stamp": "2023-07-01T12:43:53.295309Z"
+}
