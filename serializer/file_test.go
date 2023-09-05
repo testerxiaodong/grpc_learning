@@ -3,8 +3,8 @@ package serializer
 import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/protobuf/proto"
-	"grpc_demo/pb"
-	"grpc_demo/sample"
+	"grpc_learning/pb"
+	"grpc_learning/sample"
 	"testing"
 )
 

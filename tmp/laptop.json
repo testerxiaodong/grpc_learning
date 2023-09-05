@@ -1,25 +1,25 @@
 {
-  "id": "dc4733d2-6a67-40db-bdb4-e9b06171b3f5",
+  "id": "d9b31037-d742-4e0f-8532-e9865109d47f",
   "brand": "Lenovo",
-  "name": "Thinkpad P53",
+  "name": "Thinkpad P1",
   "cpu": {
-    "brand": "Intel",
-    "name": "Core i5-9400F",
-    "number_cores": 4,
-    "number_threads": 6,
-    "min_ghz": 3.4635729473808423,
-    "max_ghz": 3.4669628257500236
+    "brand": "AMD",
+    "name": "Ryzen 5 PRO 3500U",
+    "number_cores": 8,
+    "number_threads": 9,
+    "min_ghz": 2.1138740941789838,
+    "max_ghz": 3.968296162875935
   },
   "memory": {
-    "value": "7",
+    "value": "40",
     "unit": "GIGABYTE"
   },
   "gpus": [
     {
       "brand": "Intel",
-      "name": "Core i9-9980Hk",
-      "min_ghz": 2.1664895322887254,
-      "max_ghz": 2.658494950774561,
+      "name": "Core i3-1005G1",
+      "min_ghz": 2.8919163491896276,
+      "max_ghz": 4.842479511899672,
       "memory": {
         "value": "6",
         "unit": "GIGABYTE"
@@ -30,33 +30,33 @@
     {
       "drive": "SSD",
       "memory": {
-        "value": "1004",
+        "value": "753",
         "unit": "GIGABYTE"
       }
     },
     {
       "drive": "HDD",
       "memory": {
-        "value": "4",
+        "value": "1",
         "unit": "TERABYTE"
       }
     }
   ],
   "screen": {
-    "size_inch": 15.028942,
+    "size_inch": 14.392897,
     "resolution": {
-      "width": 2058,
-      "height": 1158
+      "width": 6547,
+      "height": 3683
     },
-    "panel": "IPS",
+    "panel": "OLED",
     "multitouch": false
   },
   "key_board": {
-    "layout": "QWERTZ",
-    "backlit": false
+    "layout": "QWERTY",
+    "backlit": true
   },
-  "weight_kg": 1.0810592982816452,
-  "price_usd": 2724.382503165713,
-  "release_year": 2016,
-  "time_stamp": "2023-07-01T12:43:53.295309Z"
+  "weight_kg": 1.5922209433425554,
+  "price_usd": 1660.0516290842563,
+  "release_year": 2019,
+  "time_stamp": "2023-09-05T14:41:25.679472Z"
 }

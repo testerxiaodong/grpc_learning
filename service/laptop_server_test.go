@@ -5,9 +5,9 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
-	"grpc_demo/pb"
-	"grpc_demo/sample"
-	"grpc_demo/service"
+	"grpc_learning/pb"
+	"grpc_learning/sample"
+	"grpc_learning/service"
 	"testing"
 )
 
